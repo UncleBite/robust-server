@@ -1,0 +1,1 @@
+<create><account id="666" balance="1000"/><account id="888" balance="1000"/><symbol sym="AAA"><account id="666">100</account><account id="888">100</account></symbol><symbol sym="BBB"><account id="666">200</account><account id="888">200</account></symbol></create>
