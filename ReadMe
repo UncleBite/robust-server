@@ -1,0 +1,12 @@
+In order to run the code, first run :
+
+sudo docker-compose up 
+
+to start the server
+
+Then run client as 
+
+python3 client.py whatever-you-want.py
+
+
+Note: we have already provide three sample test cases.
