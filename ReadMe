@@ -9,4 +9,4 @@ Then run client as
 python3 client.py whatever-you-want.py
 
 
-Note: we have already provide three sample test cases.
+Note: we have already provide three sample test cases(in testing folder).
